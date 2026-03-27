@@ -1,7 +1,7 @@
 <h1 align="center">João Vitor Menezes</h1>
 
 <p align="center">
-  Computer Science student • Software Development
+  Computer Science student focused on software development
 </p>
 
 <p align="center">
@@ -10,17 +10,23 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=githuParaLab3&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=githuParaLab3&style=flat&color=grey" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&lines=Computer+Science+Student;Backend+Focused;Java+%7C+Kotlin+%7C+TypeScript;Building+practical+systems" />
 </p>
 
 ---
 
 ## About
 
-Computer Science student focused on building structured and scalable software systems.
+Computer Science student focused on building structured and maintainable software systems.
 
 Experience with object-oriented programming, relational databases and web-based architectures.  
-Familiar with Linux environments and development workflows using Git.
+Familiar with Linux environments (Ubuntu) and development workflows using Git.
 
 ---
 
@@ -28,6 +34,14 @@ Familiar with Linux environments and development workflows using Git.
 
 <p align="center">
   <img height="40" src="https://skillicons.dev/icons?i=java,kotlin,ts,js,html,css,mysql,postgres,git,linux" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend-Java-000?style=flat"/>
+  <img src="https://img.shields.io/badge/Mobile-Kotlin-000?style=flat"/>
+  <img src="https://img.shields.io/badge/Web-TypeScript-000?style=flat"/>
+  <img src="https://img.shields.io/badge/Database-MySQL-000?style=flat"/>
+  <img src="https://img.shields.io/badge/Environment-Linux-000?style=flat"/>
 </p>
 
 ---
@@ -38,25 +52,37 @@ Familiar with Linux environments and development workflows using Git.
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### Questua
-Mobile educational platform focused on language learning through interactive storytelling.
+Mobile educational platform for language learning through interactive storytelling.
 
-- Kotlin • TypeScript  
-- UI/UX focused flow  
-- In development  
+**Stack:** Kotlin • TypeScript  
+
+- Structured application flow  
+- Focus on user experience  
+- Ongoing development  
+
+<a href="https://github.com/githuParaLab3/questua">
+  View repository
+</a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### MoneSol
 Web system for solar energy management and contract handling.
 
-- Java • JSP/Servlets  
-- MySQL • MVC architecture  
-- Academic project  
+**Stack:** Java • MySQL • JavaScript  
+
+- MVC architecture  
+- Contract and user management  
+- Energy data tracking  
+
+<a href="https://github.com/githuParaLab3/MoneSol">
+  View repository
+</a>
 
 </td>
 </tr>
