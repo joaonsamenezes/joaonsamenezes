@@ -1,16 +1,24 @@
-## Hi there 👋
+# João Vitor Menezes
 
-<!--
-**joaonsamenezes/joaonsamenezes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student with focus on software development and backend systems.
 
-Here are some ideas to get you started:
+## Tech Stack
+- Java (JSP, Servlets)
+- Kotlin
+- TypeScript
+- MySQL / PostgreSQL
+- Git & GitHub
+- Linux (Ubuntu)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+### Questua
+Mobile educational platform focused on language learning through interactive storytelling.  
+Built with Kotlin and TypeScript.
+
+### MoneSol
+Web system for solar energy management and contract handling.  
+Built with Java (JSP/Servlets), JavaScript and MySQL, following MVC architecture.
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/joaonsamenezes
