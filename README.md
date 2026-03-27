@@ -6,7 +6,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/joaonsamenezes">LinkedIn</a> •
-  <a href="https://github.com/githuParaLab3">GitHub</a>
 </p>
 
 ---
@@ -39,13 +38,13 @@ Familiar with Linux environments and development workflows using Git.
 ### Questua
 Mobile educational platform for language learning through interactive storytelling.
 
-**Stack:** Kotlin • TypeScript  
+**Stack:** Kotlin • Spring Boot  
 
 - Structured application flow  
 - Focus on user experience  
 - Ongoing development  
 
-<a href="https://github.com/githuParaLab3/questua">
+<a href="https://github.com/joaonsamenezes/QuestuaFrontend">
   View repository
 </a>
 
@@ -62,7 +61,7 @@ Web system for solar energy management and contract handling.
 - Contract and user management  
 - Energy data tracking  
 
-<a href="https://github.com/githuParaLab3/MoneSol">
+<a href="https://github.com/joaonsamenezes/MoneSol">
   View repository
 </a>
 
