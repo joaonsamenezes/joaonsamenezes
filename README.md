@@ -9,16 +9,6 @@
   <a href="https://github.com/githuParaLab3">GitHub</a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=githuParaLab3&style=flat&color=grey" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&lines=Computer+Science+Student;Backend+Focused;Java+%7C+Kotlin+%7C+TypeScript;Building+practical+systems" />
-</p>
-
 ---
 
 ## About
@@ -34,14 +24,6 @@ Familiar with Linux environments (Ubuntu) and development workflows using Git.
 
 <p align="center">
   <img height="40" src="https://skillicons.dev/icons?i=java,kotlin,ts,js,html,css,mysql,postgres,git,linux" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Backend-Java-000?style=flat"/>
-  <img src="https://img.shields.io/badge/Mobile-Kotlin-000?style=flat"/>
-  <img src="https://img.shields.io/badge/Web-TypeScript-000?style=flat"/>
-  <img src="https://img.shields.io/badge/Database-MySQL-000?style=flat"/>
-  <img src="https://img.shields.io/badge/Environment-Linux-000?style=flat"/>
 </p>
 
 ---
@@ -89,15 +71,6 @@ Web system for solar energy management and contract handling.
 </table>
 
 </div>
-
----
-
-## Stats
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=githuParaLab3&show_icons=true&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=githuParaLab3&layout=compact&hide_border=true" />
-</p>
 
 ---
 
