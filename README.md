@@ -16,7 +16,7 @@
 Computer Science student focused on building structured and maintainable software systems.
 
 Experience with object-oriented programming, relational databases and web-based architectures.  
-Familiar with Linux environments (Ubuntu) and development workflows using Git.
+Familiar with Linux environments and development workflows using Git.
 
 ---
 
