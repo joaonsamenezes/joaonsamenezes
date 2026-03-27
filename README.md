@@ -4,10 +4,6 @@
   Computer Science student focused on software development
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/joaonsamenezes">LinkedIn</a> •
-</p>
-
 ---
 
 ## About
